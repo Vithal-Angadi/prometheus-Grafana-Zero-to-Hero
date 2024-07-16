@@ -1,0 +1,5 @@
+minikube start
+minikube start --memory=4098 --driver=hyperkit
+helm 
+operators
+minikube ip
